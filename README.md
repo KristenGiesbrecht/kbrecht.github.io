@@ -1,4 +1,3 @@
-# kbrecht.github.io
+# Kristen M. Giesbrecht
 
-name: Test
 theme: dinky
